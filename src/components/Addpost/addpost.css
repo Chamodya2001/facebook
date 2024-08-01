@@ -1,0 +1,63 @@
+.addpostpic{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+.addpostOptions{
+    display: flex;
+    margin-left: 50px;
+
+}
+
+.addphoto2{
+    color: rgb(250, 233, 2);
+}
+.addphoto3{
+    color: blue;
+}
+.addphoto4{
+    color: red;
+}
+.addpost{
+    width: 95%;
+    border-radius: 10px;
+    height: 180px;
+    margin-top: 10px;
+    margin-left: 10px;
+    -webkit-box-shadow: 17px 14px 10px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 17px 14px 10px -4px rgba(0,0,0,0.75);
+box-shadow: 17px 14px 10px -4px rgba(0,0,0,0.75);
+
+
+}
+.addpostContainer{
+    padding: 15px;
+}
+.addpostop{
+    display: flex;
+    align-items: center;
+}
+.addpostInput{
+    border: none;
+    width: 80%;
+    margin-left: 10px;
+}
+.addpostInput:focus{
+    outline: none;
+}
+.postHr{
+    margin: 20px;
+}
+
+.addpostOption{
+  
+    margin-right: 20px;
+    align-items: center;
+    cursor: pointer;
+}
+.postButton{
+    color: rgb(127, 184, 235);
+    border-radius: 20%;
+}

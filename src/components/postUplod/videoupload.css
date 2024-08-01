@@ -1,0 +1,84 @@
+.uploadPerson{
+   
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: auto;
+    
+
+}
+.postTop{
+    display: flex;
+    margin-top: 10px;
+    align-items: baseline;
+    
+}
+.postUserName{
+    font-size:15px ;
+    font-weight: 500;
+    margin: 0 10px;
+    margin-top: 20px;
+    margin-left: 5px;
+   
+    
+}
+
+.postTime{
+    font-size: 10px;
+
+}
+.postCaption{
+    margin-left: 8px;
+    margin-top: 10px;
+}
+.post{
+    font-family: sans-serif;
+    -webkit-box-shadow: 16px -1px 31px -10px rgba(51,51,51,1);
+-moz-box-shadow: 16px -1px 31px -10px rgba(51,51,51,1);
+box-shadow: 16px -1px 31px -10px rgba(51,51,51,1);
+margin: 30px 0;
+margin-left: 10px;
+border-radius: 10px;
+
+}
+
+
+.postBottom{
+   
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+}
+
+.react{
+    width: 24px;
+    height: 24px;
+    margin-left: 1px;
+    cursor: pointer;
+    
+    
+}
+.likecount{
+    margin-right:35px;
+    margin-left: 10px;
+    font-size: 15px;
+  
+    
+}
+.comment{
+    margin-right: 70px;
+    border-bottom: 1px dashed gray;
+}
+.shear{
+    margin-right: 70px;
+}
+
+.vidcenter{
+    
+        width: 98%;
+        margin-left: 5px;
+        background-size:cover;
+    }

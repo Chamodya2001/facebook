@@ -1,0 +1,34 @@
+.LeftPlaneBox{
+       
+    background: #f7f7f7;
+}
+    
+
+.leftplaneContainer{
+    padding: 20px;
+}
+
+.leftpaneMenu{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    cursor: pointer;
+    
+}
+.leftpaneMenuItem{
+    
+    margin-bottom: 20px;
+    margin-right: 20px;
+
+}
+
+.leftplaneMenuText{
+    margin-left: 10px;
+}
+.logout{
+    width: 100%;
+}
+
+.leftpanelMenuItem{
+    width: 100%;
+}

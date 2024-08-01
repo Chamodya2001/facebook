@@ -1,0 +1,76 @@
+.RightPlaneBox{
+   flex: 3;
+   
+}
+.rightPanContainer{
+    padding: 20px 20px 0 0;
+}
+.addvertisments{
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+.sponser1{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(34, 33, 33);
+}
+.adimage{
+    margin-top: 10px;
+    width: 98%;
+    border-radius: 5px;
+    
+}
+.birthdayContainer{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.birthdayimage{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    
+}
+.onlineFrind{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    align-items: center;
+    
+
+}
+.onlineFrinedImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+
+
+}
+.friendList{
+    display: flex;
+    margin-top: 20px;
+    -webkit-box-shadow: 16px -1px 31px -10px rgba(51,51,51,1);
+-moz-box-shadow: 16px -1px 31px -10px rgba(51,51,51,1);
+box-shadow: 16px -1px 31px -10px rgba(51,51,51,1);
+    border-radius: 12px;
+}
+.onlineFrindName{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.onlineStaus{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: lime;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 1px;
+    border: solid white;
+    
+}
+.onlineFrindName{
+    margin-left: 20px;
+    font-size: 20px;
+}

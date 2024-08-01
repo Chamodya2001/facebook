@@ -1,0 +1,75 @@
+.bakgroud{
+    
+    display: flex;
+    background-color: #4267B2;
+    
+    
+   
+}
+.bakgroundimg{
+    width: 40px;
+    height: 50px;
+}
+.bakgroudRigh{
+    flex: 5;
+    
+    
+}
+.bakgroundimg{
+    width: 560px;
+    height: 580px;
+}
+.backgroudLeft{
+    flex: 5;
+    background-color:#4267B2;
+}
+.register{
+    margin-left: 90%;
+    font-size: 20px;
+    cursor: pointer;
+    color: black;
+    
+}
+.LoginLogo{
+    font-size: 80px;
+    color: aliceblue;
+    
+    
+}
+.LoginForm{
+    margin-left: 80px;
+    margin-top: 40px;
+   
+}
+.inputs{
+    width: 400px ;
+   height: 150px;
+    margin-left: 100px;
+    -webkit-box-shadow: 17px 14px 5px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 17px 14px 10px -4px rgba(0,0,0,0.75);
+box-shadow: 17px 14px 10px -4px rgba(0,0,0,0.75);
+ 
+}
+.username{
+    width: 200px;
+}
+.pasword{
+    width: 200px;
+    
+    
+}
+.userName{
+    font-size: 30px;
+}
+.Password{
+    font-size: 30px;
+}
+.LoginButton{
+    margin-left: 100px;
+    width: 400px;
+    height: 40px;
+    margin-top: 50px;
+    color: rgb(14, 15, 15);
+    font-size: 30px;
+    cursor: pointer;
+}

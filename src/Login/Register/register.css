@@ -1,0 +1,46 @@
+.Register{
+    background-color: rgb(155, 155, 214);
+    height: 100%;
+    
+    
+}
+
+.registerTop{
+    background-color: aqua;
+}
+.registerText{
+    font-size: 50px;
+    margin-left: 42%;
+}
+.form{
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 30%;
+    
+    
+    
+}
+
+.formTable{
+   width: 120%;
+   height: 450px;
+}
+
+.Reginputs{
+    height: 25px;
+    width: 450px;
+    
+}
+.tdata{
+    width: 80px;
+    height: 25px;
+
+}
+.RegBackButton{
+    width: 100px;
+    margin-top: 25px;
+    margin-left: 180px;
+}
+.saveButton{
+    width: 80px;
+}
